@@ -1,3 +1,5 @@
+#First completed on 10Jan2025
+
 # Rod cutting problem:
 # For a rod of size L, we know that it can be cut in different sizes and each size has a corresponding price if sold.
 # The question is how to cut the rod to achieve maximum revenue?
